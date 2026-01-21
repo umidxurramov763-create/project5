@@ -164,7 +164,9 @@ footer ul:hover{
     transition: 0.4s;
 }
 
-
+.card-body .logo- p{
+    font-size: 17px;
+}
 
 
 @media (max-width: 768px) {
