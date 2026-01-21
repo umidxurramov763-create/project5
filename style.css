@@ -129,6 +129,7 @@ footer{
     width: 200%;
     background: #0F1724;
     color: #fff;
+    width: 100%;
 }
 
 footer b{
@@ -162,6 +163,7 @@ footer ul:hover{
     color: blue;
     transition: 0.4s;
 }
+
 
 
 
